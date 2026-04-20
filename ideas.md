@@ -9,7 +9,6 @@ Simular a experiência do Flipper Zero em um ambiente web moderno, com fidelidad
 <text>
 ## Ideia 1: "Hacker Terminal" — Cyberpunk Minimalista
 
-**Design Movement:** Cyberpunk Noir + Terminal Hacker Aesthetic
 
 **Core Principles:**
 - Fundo escuro profundo com texto verde neon (como terminais antigos)
@@ -17,19 +16,7 @@ Simular a experiência do Flipper Zero em um ambiente web moderno, com fidelidad
 - Scanlines sutis e efeitos de glitch em transições
 - Hierarquia visual através de cor (verde = ativo, amarelo = aviso, vermelho = erro)
 
-**Color Philosophy:**
-- Background: #0a0e0a (quase preto com toque verde)
-- Primary: #00ff41 (verde matrix)
-- Accent: #ff6b35 (laranja neon para destaques)
-- Warning: #ffcc00 (amarelo âmbar)
-- Text: #c8ffc8 (verde claro)
-Intenção emocional: Sensação de poder técnico e hacking real
-
-**Layout Paradigm:**
-- Sidebar esquerda com ícones dos módulos (estilo terminal)
-- Área principal com painéis flutuantes tipo "janelas de terminal"
-- Status bar inferior com informações do sistema
-- Grid assimétrico: sidebar fixa + conteúdo dinâmico
+**
 
 **Signature Elements:**
 - Cursor piscante em campos de input
@@ -69,13 +56,6 @@ Intenção emocional: Sensação de poder técnico e hacking real
 - Corpo do dispositivo visível com botões físicos clicáveis
 - Paleta de cores do Flipper original (laranja/preto)
 
-**Color Philosophy:**
-- Background: #1a1a2e (azul escuro profundo)
-- Device Body: #ff6b00 (laranja Flipper original)
-- Screen: #2d4a1e (verde LCD escuro)
-- Screen Text: #7bc67e (verde LCD claro)
-- Buttons: #2a2a2a com highlight #444
-Intenção emocional: Nostalgia de hardware + autenticidade
 
 **Layout Paradigm:**
 - Dispositivo Flipper centralizado na tela, grande e detalhado
@@ -120,17 +100,7 @@ Intenção emocional: Nostalgia de hardware + autenticidade
 - Tipografia técnica mas legível
 - Cards modulares com bordas sutis e glassmorphism leve
 
-**Color Philosophy:**
-- Background: #0d1117 (preto GitHub escuro)
-- Surface: #161b22 (cards e painéis)
-- Border: #30363d (bordas sutis)
-- Primary: #ff6b00 (laranja Flipper — identidade da marca)
-- Accent: #00d4ff (ciano neon para dados ativos)
-- Success: #3fb950 (verde para sinais detectados)
-- Warning: #d29922 (amarelo para alertas)
-- Text Primary: #e6edf3 (branco suave)
-- Text Secondary: #8b949e (cinza médio)
-Intenção emocional: Poder técnico profissional, como uma ferramenta real de segurança
+
 
 **Layout Paradigm:**
 - Sidebar esquerda fixa (64px colapsada, 240px expandida) com ícones dos módulos
